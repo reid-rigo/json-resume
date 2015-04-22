@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Reid M. Lynch",
+    "label": "Software Builder & Project Leader",
+    "picture": "http://i.imgur.com/Llnf0Z1.jpg",
+    "email": "reid.lynch@gmail.com",
+    "phone": "540-383-0186",
+    "website": "reidlynch.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Boulder",
+      "countryCode": "US",
+      "region": "CO"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Reid Lynch",
+        "url": "http://www.linkedin.com/pub/reid-lynch/4/533/447/en"
+      },
+      {
+        "network": "Github",
+        "username": "rigoleto",
+        "url": "https://github.com/rigoleto"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Trada",
+      "position": "Director of Engineering",
+      "website": "http://www.trada.com",
+      "startDate": "2014-04-22",
+      "endDate": "2015-03-25",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "StackWave",
+      "position": "Senior Software Engineer",
+      "website": "http://www.stackwave.com",
+      "startDate": "2013-02-01",
+      "endDate": "2014-04-18",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "Fundación El Arenal",
+      "position": "Technology Volunteer",
+      "website": "http://facebook.com/FundacionElArenal",
+      "startDate": "2012-02-01",
+      "endDate": "2013-10-01",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "IBCorp Investments",
+      "position": "Principal Engineer",
+      "website": "http://www.ibcorp.com.ec",
+      "startDate": "2012-06-01",
+      "endDate": "2012-12-01",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "Independent",
+      "position": "Software Engineer & Web Developer",
+      "website": "",
+      "startDate": "2011-02-01",
+      "endDate": "2011-11-01",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "Peace Corps Ecuador",
+      "position": "Volunteer",
+      "website": "http://www.peacecorps.gov",
+      "startDate": "2010-02-01",
+      "endDate": "2010-09-01",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "Avenue 100 Media Solutions",
+      "position": "Software Engineer",
+      "website": "http://avenue100.com/",
+      "startDate": "2007-11-01",
+      "endDate": "2010-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Williams College",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2003-09-01",
+      "endDate": "2007-06-01",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": [
+        "Milestone planning", "Effort estimation", "Rapid release"
+      ]
+    }, {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Ruby", "Javascript", "C#", "Java", "SQL"
+      ]
+    }, {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "SASS",
+        "Angular",
+        "React",
+        "Knockout",
+        "Bootstrap"
+      ]
+    }, {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL", "MySQL", "MongoDB", "Redis"
+      ]
+    }, {
+      "name": "Operations",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Amazon Web Services",
+        "Heroku",
+        "Continuous Integration"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }, {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Available Upon Request",
+      "reference": " "
+    }
+  ]
+}
