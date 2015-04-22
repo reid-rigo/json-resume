@@ -1,1 +1,1 @@
-# json-resume
+registry.jsonresume.org/reidlynch
