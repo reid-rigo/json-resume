@@ -140,6 +140,12 @@
         "Heroku",
         "Continuous Integration"
       ]
+    }, {
+      "name": "APIs",
+      "level": "",
+      "keywords": [
+        "AdWords", "Stripe", "AWS"
+      ]
     }
   ],
   "languages": [
