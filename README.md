@@ -1,1 +1,1 @@
-registry.jsonresume.org/reidlynch
+resume.reidlynch.com
