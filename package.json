@@ -1,0 +1,25 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "resume.reidlynch.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "resume serve -t ./theme -d .",
+    "build": "resume export -t ./theme index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigoleto/json-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rigoleto/json-resume/issues"
+  },
+  "homepage": "https://github.com/rigoleto/json-resume#readme",
+  "devDependencies": {
+    "date-fns": "^2.22.1",
+    "jsonresume-theme-flat": "^0.3.7",
+    "resume-cli": "^3.0.5"
+  }
+}

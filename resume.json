@@ -1,24 +1,25 @@
 {
+  "meta": {
+    "theme": "elegant"
+  },
   "basics": {
     "name": "Reid M. Lynch",
-    "label": "Developer & Project Leader",
-    "picture": "http://i.imgur.com/Llnf0Z1.jpg",
+    "label": "Engineering Leader",
+    "picture": "https://i.imgur.com/Llnf0Z1.jpg",
     "email": "reid.lynch@gmail.com",
     "phone": "540-383-0186",
-    "website": "reidlynch.com",
-    "summary": "I'm passionate about taking innvoative ideas and building them from the ground up. With an eye for understanding business needs and organizing their execution, I excel in managing all aspects of applications from the server bare metal to the pixel on the screen.",
+    "website": "https://reidlynch.com",
+    "summary": "I'm passionate about taking innovative ideas and building them from the ground up. With an eye for understanding business needs and organizing their execution, I excel in managing all aspects of applications from the server bare metal to the pixel on the screen.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Boulder",
-      "countryCode": "US",
-      "region": "CO"
+      "city": "Charlottesville",
+      "region": "VA",
+      "countryCode": "US"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "Reid Lynch",
-        "url": "http://www.linkedin.com/pub/reid-lynch/4/533/447/en"
+        "url": "https://www.linkedin.com/in/reid-lynch-4475334/"
       },
       {
         "network": "Github",
@@ -29,9 +30,16 @@
   },
   "work": [
     {
+      "company": "Verblio",
+      "position": "Senior Director of Engineering",
+      "website": "https://www.verblio.com",
+      "startDate": "2015-05-14",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }, {
       "company": "Trada",
       "position": "Director of Engineering",
-      "website": "http://www.trada.com",
       "startDate": "2014-04-22",
       "endDate": "2015-03-25",
       "summary": "",
@@ -39,7 +47,7 @@
     }, {
       "company": "StackWave",
       "position": "Senior Software Engineer",
-      "website": "http://www.stackwave.com",
+      "website": "https://www.stackwave.com",
       "startDate": "2013-02-01",
       "endDate": "2014-04-18",
       "summary": "",
@@ -47,7 +55,7 @@
     }, {
       "company": "Fundación El Arenal",
       "position": "Technology Volunteer",
-      "website": "http://facebook.com/FundacionElArenal",
+      "website": "https://facebook.com/FundacionElArenal",
       "startDate": "2012-02-01",
       "endDate": "2013-10-01",
       "summary": "",
@@ -55,7 +63,7 @@
     }, {
       "company": "IBCorp Investments",
       "position": "Principal Engineer",
-      "website": "http://www.ibcorp.com.ec",
+      "website": "https://www.ibcorpgroup.com",
       "startDate": "2012-06-01",
       "endDate": "2012-12-01",
       "summary": "",
@@ -71,7 +79,7 @@
     }, {
       "company": "Peace Corps Ecuador",
       "position": "Volunteer",
-      "website": "http://www.peacecorps.gov",
+      "website": "https://www.peacecorps.gov",
       "startDate": "2010-02-01",
       "endDate": "2010-09-01",
       "summary": "",
@@ -79,7 +87,7 @@
     }, {
       "company": "Avenue 100 Media Solutions",
       "position": "Software Engineer",
-      "website": "http://avenue100.com/",
+      "website": "https://avenue100.com/",
       "startDate": "2007-11-01",
       "endDate": "2010-01-01",
       "summary": "",
@@ -104,25 +112,27 @@
       "name": "Project Management",
       "level": "",
       "keywords": [
-        "Milestone planning", "Effort estimation", "Rapid release"
+        "Milestone planning", "Effort estimation", "Release coordination"
+      ]
+    }, {
+      "name": "Team Management",
+      "level": "",
+      "keywords": [
+        "Goal setting", "Daily standups", "One-on-one check-ins", "Retrospective meetings"
       ]
     }, {
       "name": "Languages",
       "level": "",
       "keywords": [
-        "Ruby", "Javascript", "C#", "Java", "SQL"
+        "Ruby", "Typescript & Javascript", "SQL", "C#", "Java"
       ]
     }, {
-      "name": "Web Development",
+      "name": "Frameworks",
       "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "SASS",
+        "Rails",
         "Angular",
         "React",
-        "Knockout",
         "Bootstrap"
       ]
     }, {
@@ -138,13 +148,14 @@
         "Linux",
         "Amazon Web Services",
         "Heroku",
-        "Continuous Integration"
+        "CloudFlare",
+        "Google Cloud"
       ]
     }, {
       "name": "APIs",
       "level": "",
       "keywords": [
-        "AdWords", "Stripe", "AWS"
+        "AdWords", "Stripe", "Recurly", "AWS", "Intercom"
       ]
     }
   ],

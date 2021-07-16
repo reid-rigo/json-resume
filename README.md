@@ -1,1 +1,1 @@
-resume.reidlynch.com
+https://resume.reidlynch.com
