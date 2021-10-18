@@ -149,7 +149,6 @@
 				</div>
 				{{/summary}}
 				{{#if highlights.length}}
-				<h4>Highlights</h4>
 				<ul class="highlights">
 					{{#highlights}}
 					<li class="bullet">{{.}}</li>

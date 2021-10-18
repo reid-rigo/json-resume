@@ -1,7 +1,7 @@
 {
   "name": "json-resume",
   "version": "1.0.0",
-  "description": "resume.reidlynch.com",
+  "description": "https://resume.reidlynch.com",
   "main": "index.js",
   "scripts": {
     "start": "resume serve -t ./theme -d .",

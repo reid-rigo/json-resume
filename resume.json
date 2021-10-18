@@ -9,7 +9,7 @@
     "email": "reid.lynch@gmail.com",
     "phone": "540-383-0186",
     "website": "https://reidlynch.com",
-    "summary": "I'm passionate about taking innovative ideas and building them from the ground up. With an eye for understanding business needs and organizing their execution, I excel in managing all aspects of applications from the server bare metal to the pixel on the screen.",
+    "summary": "I'm passionate about taking innovative ideas and building them from the ground up. With an eye for understanding business needs and organizing their execution, I excel in managing both the human & technical elements of software development.",
     "location": {
       "city": "Charlottesville",
       "region": "VA",
@@ -34,9 +34,13 @@
       "position": "Senior Director of Engineering",
       "website": "https://www.verblio.com",
       "startDate": "2015-05-14",
-      "endDate": "",
+      "endDate": "2021-09-01 12:00",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Led development of Verblio's software platform connecting businesses with writers to produce and edit original articles.",
+        "Built and managed a highly effective hybrid US/overseas team of software professionals.",
+        "Performed key role in planning & architecting product enhancements in our company roadmap."
+      ]
     }, {
       "company": "Trada",
       "position": "Director of Engineering",
