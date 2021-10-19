@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "resume serve -t ./theme -d .",
-    "build": "resume export -t ./theme index.html"
+    "build": "resume export -t ./theme index.html",
+    "pdf": "resume export -t ./theme resume.pdf"
   },
   "repository": {
     "type": "git",
